@@ -27,13 +27,11 @@ Here are some ideas to get you started:
       <img src="https://github.com/HuguesBriqueler/HuguesBriqueler/blob/main/img/Eco'Tick_map.png" width="200px" alt="Eco'Tick map screen">
     </a>
     </td>
-  <tr>
     <td align="center">
     <a href="https://github.com/HuguesBriqueler/EcoTick_App">
       <img src="https://github.com/HuguesBriqueler/HuguesBriqueler/blob/main/img/Eco'Tick_log.png" width="200px" alt="Eco'Tick login screen">
     </a>
     </td>
-  <tr>
     <td align="center">
     <a href="https://github.com/HuguesBriqueler/EcoTick_App">
       <img src="https://github.com/HuguesBriqueler/HuguesBriqueler/blob/main/img/Eco'Tick_fav.png" width="200px" alt="Eco'Tick favorite screen">
