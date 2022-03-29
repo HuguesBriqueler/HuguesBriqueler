@@ -14,8 +14,10 @@ I'm Hugues from France, React developper, actualy open to work.
 <img align="left" alt="MySQL" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 </br>
-  
-  
+</br>
+</br>
+</br>
+
 <!--
 **HuguesBriqueler/HuguesBriqueler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
