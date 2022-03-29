@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 👋
 -->
 
-## Here are some views of my last big project :
+## Here are some views of Eco'Tick project :
 
 <table>
   <tr>
